@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Remirax
+- 👀 I’m interested in coding (especially HTML (+ CSS & JS), aswell as Java and C#).
+- 🌱 I’m currently learning a lot of things, but I am visiting a school specialised in computer science.
+- 💞️ I’m looking to collaborate on nothing at this point.
+- 📫 How to reach me: You can't at this point in time, unfortunately.
