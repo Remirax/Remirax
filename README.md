@@ -1,5 +1,98 @@
-- 👋 Hi, I’m @Remirax
-- 👀 I’m interested in coding (especially HTML (+ CSS & JS), aswell as Java and C#).
-- 🌱 I’m currently learning a lot of things, but I am visiting a school specialised in computer science.
-- 💞️ I’m looking to collaborate on nothing at this point.
-- 📫 How to reach me: You can't at this point in time, unfortunately.
+# 👋 Welcome to Remirax's Digital Universe! 
+
+<div align="center">
+  
+```ascii
+██████╗ ███████╗███╗   ███╗██╗██████╗  █████╗ ██╗  ██╗
+██╔══██╗██╔════╝████╗ ████║██║██╔══██╗██╔══██╗╚██╗██╔╝
+██████╔╝█████╗  ██╔████╔██║██║██████╔╝███████║ ╚███╔╝ 
+██╔══██╗██╔══╝  ██║╚██╔╝██║██║██╔══██╗██╔══██║ ██╔██╗ 
+██║  ██║███████╗██║ ╚═╝ ██║██║██║  ██║██║  ██║██╔╝ ██╗
+╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+### 🚀 Computer Science Student | 💻 Full-Stack Enthusiast | 🎯 Future Tech Innovator
+
+</div>
+
+---
+
+## 🎭 About Me
+
+> *"Code is poetry written in logic, and I'm here to craft digital symphonies!"*
+
+🔥 **Passionate Developer** diving deep into the world of programming  
+🎓 **Computer Science Student** at a specialized tech school  
+🌟 **Always Learning** new technologies and pushing boundaries  
+⚡ **Fun Fact:** I believe every bug is just a feature waiting to be discovered!
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 🌐 **Web Technologies**
+```
+Frontend  🎨  HTML5 • CSS3 • JavaScript • Responsive Design
+Styling   ✨  Modern CSS • Flexbox • Grid • Animations
+```
+
+### ⚙️ **Programming Languages**
+```
+Object-Oriented  📦  Java • C#
+Web Development  🌍  JavaScript • HTML • CSS
+Learning         📚  Always expanding the toolkit!
+```
+
+### 🎯 **Current Focus**
+- 🔥 Mastering full-stack web development
+- 🚀 Building awesome projects with clean, efficient code
+- 📚 Expanding knowledge in computer science fundamentals
+- 🌟 Exploring new frameworks and technologies
+
+---
+
+## 📊 GitHub Journey
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Remirax&color=brightgreen&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Remirax?style=social)
+
+</div>
+
+---
+
+## 🌱 Currently Growing
+
+- 🎯 **Deep diving** into advanced programming concepts
+- 🔧 **Building** practical projects to solidify learning
+- 🌐 **Exploring** the latest web development trends
+- 🤝 **Connecting** with the developer community
+
+---
+
+## 🎯 Goals & Vision
+
+💡 **Short-term:** Master the fundamentals and build an impressive project portfolio  
+🚀 **Long-term:** Become a skilled full-stack developer and contribute to meaningful projects  
+🌟 **Dream:** Create applications that make a positive impact on people's lives  
+
+---
+
+## 🔮 Future Collaborations
+
+🔄 **Status:** Currently focused on learning and skill development  
+📬 **Open to:** Connecting with fellow developers and sharing knowledge  
+💡 **Interested in:** Simple projects that help mutual learning  
+
+---
+
+<div align="center">
+
+### 🌟 *"Every expert was once a beginner. Every professional was once an amateur."*
+
+![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+**✨ Thanks for visiting my profile! Feel free to explore my repositories and watch my coding journey unfold! ✨**
+
+</div>
