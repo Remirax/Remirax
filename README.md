@@ -11,7 +11,7 @@
 ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### 🚀 IT & Systems Management Student | 💻 Programming Enthusiast | 🤖 AI Enthusiast | 🎯 Future Tech Innovator
+### 🚀 IT & Systems Management Student | 🤖 AI Enthusiast | 🎯 Future Tech Innovator
 
 </div>
 
@@ -29,6 +29,13 @@
 ---
 
 ## 🛠️ Tech Arsenal
+
+### ⚙️ **Programming Languages**
+```
+Web Development  🌍  JavaScript • HTML • CSS
+Scripting        🏫  C • Python
+Learning         📚  C++ • Lua
+```
 
 ### 🎯 **Current Focus**
 - 🚀 Building awesome projects with clean, efficient code
