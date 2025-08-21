@@ -11,7 +11,7 @@
 ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### 🚀 Computer Science Student | 💻 Full-Stack Enthusiast | 🎯 Future Tech Innovator
+### 🚀 IT & Systems Management Student | 💻 Programming Enthusiast | 🤖 AI Enthusiast | 🎯 Future Tech Innovator
 
 </div>
 
@@ -22,7 +22,7 @@
 > *"Code is poetry written in logic, and I'm here to craft digital symphonies!"*
 
 🔥 **Passionate Developer** diving deep into the world of programming  
-🎓 **Computer Science Student** at a specialized tech school  
+🎓 **Information Technology and Systems Management Student** at FH Salzburg  
 🌟 **Always Learning** new technologies and pushing boundaries  
 ⚡ **Fun Fact:** I believe every bug is just a feature waiting to be discovered!
 
@@ -32,8 +32,9 @@
 
 ### 🎯 **Current Focus**
 - 🚀 Building awesome projects with clean, efficient code
-- 📚 Expanding knowledge in computer science fundamentals
-- 🌟 Exploring new frameworks and technologies
+- 💻 Learning actual programming languages like C and C++
+- 🔧 Exploring hardware and software-support side of IT
+- 📚 Expanding knowledge in IT and systems management fundamentals
 
 ---
 
@@ -50,8 +51,9 @@
 
 ## 🌱 Currently Growing
 
-- 🎯 **Deep diving** into advanced programming concepts
+- 🎯 **Deep diving** into advanced programming concepts with C and C++
 - 🔧 **Building** practical projects to solidify learning
+- 🤖 **AI Enthusiast:** Going with the flow of time and using AI to enhance my programming journey
 - 🌐 **Exploring** the latest development and AI trends
 - 🤝 **Connecting** with the developer community
 
