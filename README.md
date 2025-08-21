@@ -30,21 +30,7 @@
 
 ## 🛠️ Tech Arsenal
 
-### 🌐 **Web Technologies**
-```
-Frontend  🎨  HTML5 • CSS3 • JavaScript • Responsive Design
-Styling   ✨  Modern CSS • Flexbox • Grid • Animations
-```
-
-### ⚙️ **Programming Languages**
-```
-Object-Oriented  📦  Java • C#
-Web Development  🌍  JavaScript • HTML • CSS
-Learning         📚  Always expanding the toolkit!
-```
-
 ### 🎯 **Current Focus**
-- 🔥 Mastering full-stack web development
 - 🚀 Building awesome projects with clean, efficient code
 - 📚 Expanding knowledge in computer science fundamentals
 - 🌟 Exploring new frameworks and technologies
@@ -66,7 +52,7 @@ Learning         📚  Always expanding the toolkit!
 
 - 🎯 **Deep diving** into advanced programming concepts
 - 🔧 **Building** practical projects to solidify learning
-- 🌐 **Exploring** the latest web development trends
+- 🌐 **Exploring** the latest development and AI trends
 - 🤝 **Connecting** with the developer community
 
 ---
