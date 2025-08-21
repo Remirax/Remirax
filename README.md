@@ -22,7 +22,7 @@
 > *"Code is poetry written in logic, and I'm here to craft digital symphonies!"*
 
 🔥 **Passionate Developer** diving deep into the world of programming  
-🎓 **Information Technology and Systems Management Student** at FH Salzburg  
+🎓 **Information Technology and Systems Management Student** @ an Austrian University of Applied Sciences 
 🌟 **Always Learning** new technologies and pushing boundaries  
 ⚡ **Fun Fact:** I believe every bug is just a feature waiting to be discovered!
 
@@ -32,7 +32,6 @@
 
 ### 🎯 **Current Focus**
 - 🚀 Building awesome projects with clean, efficient code
-- 💻 Learning actual programming languages like C and C++
 - 🔧 Exploring hardware and software-support side of IT
 - 📚 Expanding knowledge in IT and systems management fundamentals
 
@@ -51,7 +50,7 @@
 
 ## 🌱 Currently Growing
 
-- 🎯 **Deep diving** into advanced programming concepts with C and C++
+- 🎯 **Deep diving** into advanced programming concepts
 - 🔧 **Building** practical projects to solidify learning
 - 🤖 **AI Enthusiast:** Going with the flow of time and using AI to enhance my programming journey
 - 🌐 **Exploring** the latest development and AI trends
