@@ -22,9 +22,9 @@
 > *"Code is poetry written in logic, and I'm here to craft digital symphonies!"*
 
 🔥 **Passionate Developer** diving deep into the world of programming  
-🎓 **Information Technology and Systems Management Student** @ an Austrian University of Applied Sciences 
+🎓 **Information Technology and Systems Management Student** @ an Austrian University of Applied Sciences  
 🌟 **Always Learning** new technologies and pushing boundaries  
-⚡ **Fun Fact:** I believe every bug is just a feature waiting to be discovered!
+⚡ **Fun Fact:** I believe every bug is just a feature waiting to be discovered!  
 
 ---
 
