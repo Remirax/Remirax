@@ -11,7 +11,7 @@
 ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### 🚀 IT & Systems Management Student | 🤖 AI Enthusiast | 🎯 Future Tech Innovator
+### 🚀 Mobile & Web Development Student | 🤖 AI Enthusiast | 🎯 Future Tech Innovator
 
 </div>
 
@@ -22,7 +22,7 @@
 > *"Code is poetry written in logic, and I'm here to craft digital symphonies!"*
 
 🔥 **Passionate Developer** diving deep into the world of programming  
-🎓 **Information Technology and Systems Management Student** @ an Austrian University of Applied Sciences  
+🎓 **MultiMediaTechnology Student specialising in Mobile & Web Development** @ an Austrian University of Applied Sciences  
 🌟 **Always Learning** new technologies and pushing boundaries  
 ⚡ **Fun Fact:** I believe every bug is just a feature waiting to be discovered!  
 
@@ -32,15 +32,14 @@
 
 ### ⚙️ **Programming Languages**
 ```
-Web Development  🌍  JavaScript • HTML • CSS
-Scripting        🏫  C • Python
-Learning         📚  C++ • Lua
+Web Development  🌍  PHP • Laravel • JavaScript • HTML • CSS
+Engineering      🏫  C#
 ```
 
 ### 🎯 **Current Focus**
 - 🚀 Building awesome projects with clean, efficient code
 - 🔧 Exploring hardware and software-support side of IT
-- 📚 Expanding knowledge in IT and systems management fundamentals
+- 📚 Expanding knowledge in IT and software engineering fundamentals
 
 ---
 
